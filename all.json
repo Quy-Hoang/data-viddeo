@@ -1,0 +1,747 @@
+{
+  "episodes": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 48,
+        "name": "Thor: T\u00ecnh Y\u00eau V\u00e0 S\u1ea5m S\u00e9t",
+        "slug": "thor-tinh-yeu-va-sam-set",
+        "description": "<p>V\u1ed1n t\u1eebng l\u00e0 m\u1ed9t chi\u1ebfn binh h\u00f9ng m\u1ea1nh c\u1ee7a Asgard, tr\u1ea3i qua v\u00f4 s\u1ed1 tr\u1eadn chi\u1ebfn l\u1edbn nh\u1ecf nh\u01b0ng sau s\u1ef1 ki\u1ec7n trong Avengers: Endgame (2019) c\u00f9ng v\u00f4 s\u1ed1 m\u1ea5t m\u00e1t, Th\u1ea7n S\u1ea5m kh\u00f4ng c\u00f2n mu\u1ed1n theo \u0111u\u1ed5i con \u0111\u01b0\u1eddng si\u00eau anh h\u00f9ng. T\u1eeb \u0111\u00e2y, anh l\u00ean \u0111\u01b0\u1eddng t\u00ecm ra \u00fd ngh\u0129a c\u1ee7a cu\u1ed9c s\u1ed1ng v\u00e0 nh\u00ecn nh\u1eadn l\u1ea1i b\u1ea3n th\u00e2n m\u00ecnh.<\/p>",
+        "resolution": "1",
+        "name_eng": "Thor: Love and Thunder",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "119 ph\u00fat",
+        "season": "0",
+        "trailer": "UBgPypHGAqE",
+        "episodes": 1,
+        "id_category": 6,
+        "id_genre": 6,
+        "id_country": 36,
+        "image": "thor46276.jpg",
+        "status": 1,
+        "created_at": "2022-09-12T16:11:47.000000Z",
+        "updated_at": "2022-09-12T09:11:47.000000Z",
+        "category": {
+          "id": 6,
+          "name": "Phim Hot",
+          "slug": "phim-hot",
+          "created_at": "2022-08-11T10:07:25.000000Z",
+          "updated_at": "2022-08-11T10:07:25.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 21,
+            "name": "H\u00e0i \u01b0\u1edbc",
+            "slug": "hai-uoc",
+            "created_at": "2022-08-28T10:26:21.000000Z",
+            "updated_at": "2022-08-28T10:26:21.000000Z",
+            "pivot": {
+              "movie_id": 48,
+              "genre_id": 21
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 48,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 13,
+            "name": "Phi\u00eau L\u01b0u",
+            "slug": "phieu-luu",
+            "created_at": "2022-08-16T09:45:51.000000Z",
+            "updated_at": "2022-08-16T09:45:51.000000Z",
+            "pivot": {
+              "movie_id": 48,
+              "genre_id": 13
+            }
+          },
+          {
+            "id": 6,
+            "name": "H\u00e0nh \u0110\u1ed9ng",
+            "slug": "hanh-dong",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:44:15.000000Z",
+            "pivot": {
+              "movie_id": 48,
+              "genre_id": 6
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      },
+      {
+        "id": 47,
+        "name": "Batman: V\u1ea1ch Tr\u1ea7n S\u1ef1 Th\u1eadt",
+        "slug": "batman-vach-tran-su-that",
+        "description": "<p>B\u1ed9 phim \u0111\u01b0a kh\u00e1n gi\u1ea3 d\u00f5i theo h\u00e0nh tr\u00ecnh ph\u00e1 \u00e1n v\u00e0 di\u1ec7t tr\u1eeb t\u1ed9i ph\u1ea1m c\u1ee7a ch\u00e0ng Hi\u1ec7p s\u0129 B\u00f3ng \u0111\u00eam Batman, v\u1edbi m\u1ed9t c\u00e2u chuy\u1ec7n ho\u00e0n to\u00e0n kh\u00e1c bi\u1ec7t v\u1edbi nh\u1eefng ph\u1ea7n phim \u0111\u00e3 ra m\u1eaft tr\u01b0\u1edbc \u0111\u00e2y. Th\u1ebf gi\u1edbi ng\u1ea7m \u1edf th\u00e0nh ph\u1ed1 Gotham xu\u1ea5t hi\u1ec7n m\u1ed9t t\u00ean t\u1ed9i ph\u1ea1m k\u1ef3 l\u1ea1 t\u00ean Riddler chuy\u00ean nh\u1eafm v\u00e0o nh\u00e2n v\u1eadt tai to m\u1eb7t l\u1edbn. V\u00e0 sau m\u1ed7i l\u1ea7n ph\u1ea1m t\u1ed9i, h\u1eafn \u0111\u1ec1u \u0111\u1ec3 l\u1ea1i m\u1ed9t c\u00e2u \u0111\u1ed1 b\u00ed \u1ea9n cho Batman. Khi b\u1eaft tay v\u00e0o ph\u00e1 gi\u1ea3i c\u00e1c c\u00e2u \u0111\u1ed1 n\u00e0y, Batman d\u1ea7n l\u1eadt m\u1edf nh\u1eefng b\u00ed \u1ea9n \u0111\u1ed9ng tr\u1eddi gi\u1eefa gia \u0111\u00ecnh anh v\u00e0 t\u00ean tr\u00f9m t\u1ed9i ph\u1ea1m Carmine Falcon\u00fat<\/p>",
+        "resolution": "1",
+        "name_eng": "The Batman",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "183 ph\u00fat",
+        "season": "0",
+        "trailer": "mqqft2x_Aa4",
+        "episodes": 1,
+        "id_category": 5,
+        "id_genre": 6,
+        "id_country": 36,
+        "image": "6256317b7409b8530.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T14:32:34.000000Z",
+        "updated_at": "2022-09-12T09:08:24.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Phim M\u1edbi",
+          "slug": "phim-moi",
+          "created_at": "2022-08-11T10:04:43.000000Z",
+          "updated_at": "2022-08-11T10:04:43.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 24,
+            "name": "Trinh th\u00e1m",
+            "slug": "trinh-tham",
+            "created_at": "2022-08-31T07:30:18.000000Z",
+            "updated_at": "2022-08-31T07:30:18.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 24
+            }
+          },
+          {
+            "id": 23,
+            "name": "H\u00ecnh s\u1ef1",
+            "slug": "hinh-su",
+            "created_at": "2022-08-31T07:30:07.000000Z",
+            "updated_at": "2022-08-31T07:30:07.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 23
+            }
+          },
+          {
+            "id": 17,
+            "name": "H\u1ed3i h\u1ed9p - Gay c\u1ea5n",
+            "slug": "hoi-hop-gay-can",
+            "created_at": "2022-08-28T10:24:41.000000Z",
+            "updated_at": "2022-08-28T10:24:41.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 17
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 13,
+            "name": "Phi\u00eau L\u01b0u",
+            "slug": "phieu-luu",
+            "created_at": "2022-08-16T09:45:51.000000Z",
+            "updated_at": "2022-08-16T09:45:51.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 13
+            }
+          },
+          {
+            "id": 10,
+            "name": "Gi\u1eadt G\u00e2n",
+            "slug": "giat-gan",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:45:41.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 10
+            }
+          },
+          {
+            "id": 6,
+            "name": "H\u00e0nh \u0110\u1ed9ng",
+            "slug": "hanh-dong",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:44:15.000000Z",
+            "pivot": {
+              "movie_id": 47,
+              "genre_id": 6
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      },
+      {
+        "id": 46,
+        "name": "Ch\u00fa Nguy\u1ec1n",
+        "slug": "chu-nguyen",
+        "description": "<p>S\u00e1u n\u0103m tr\u01b0\u1edbc, L\u00fd Nh\u01b0\u1ee3c Nam b\u1ecb nguy\u1ec1n r\u1ee7a v\u00ec ph\u1ea1m ph\u1ea3i \u0111i\u1ec1u c\u1ea5m k\u1ecb trong t\u00f4n gi\u00e1o. Gi\u1edd \u0111\u00e2y, c\u00f4 ph\u1ea3i b\u1ea3o v\u1ec7 con g\u00e1i tr\u01b0\u1edbc h\u1eadu qu\u1ea3 c\u1ee7a nh\u1eefng h\u00e0nh \u0111\u1ed9ng m\u00ecnh g\u00e2y ra.<\/p>",
+        "resolution": "3",
+        "name_eng": "Incantation",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "110 ph\u00fat",
+        "season": "0",
+        "trailer": "HnyNZdcL_GY",
+        "episodes": 1,
+        "id_category": 5,
+        "id_genre": 9,
+        "id_country": 44,
+        "image": "62c9797ef2d6e9808.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T14:26:42.000000Z",
+        "updated_at": "2022-08-31T07:26:42.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Phim M\u1edbi",
+          "slug": "phim-moi",
+          "created_at": "2022-08-11T10:04:43.000000Z",
+          "updated_at": "2022-08-11T10:04:43.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 22,
+            "name": "Kinh d\u1ecb",
+            "slug": "kinh-di",
+            "created_at": "2022-08-31T06:39:14.000000Z",
+            "updated_at": "2022-08-31T06:39:14.000000Z",
+            "pivot": {
+              "movie_id": 46,
+              "genre_id": 22
+            }
+          },
+          {
+            "id": 17,
+            "name": "H\u1ed3i h\u1ed9p - Gay c\u1ea5n",
+            "slug": "hoi-hop-gay-can",
+            "created_at": "2022-08-28T10:24:41.000000Z",
+            "updated_at": "2022-08-28T10:24:41.000000Z",
+            "pivot": {
+              "movie_id": 46,
+              "genre_id": 17
+            }
+          },
+          {
+            "id": 10,
+            "name": "Gi\u1eadt G\u00e2n",
+            "slug": "giat-gan",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:45:41.000000Z",
+            "pivot": {
+              "movie_id": 46,
+              "genre_id": 10
+            }
+          },
+          {
+            "id": 9,
+            "name": "B\u00ed \u1ea8n",
+            "slug": "bi-an",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:45:15.000000Z",
+            "pivot": {
+              "movie_id": 46,
+              "genre_id": 9
+            }
+          }
+        ],
+        "country": {
+          "id": 44,
+          "name": "Trung Qu\u1ed1c",
+          "slug": "trung-quoc",
+          "created_at": "2022-08-16T15:08:11.000000Z",
+          "updated_at": "2022-08-16T15:08:11.000000Z"
+        }
+      },
+      {
+        "id": 45,
+        "name": "Ng\u01b0\u1eddi Nh\u1ec7n: Kh\u00f4ng C\u00f2n Nh\u00e0",
+        "slug": "nguoi-nhen-khong-con-nha",
+        "description": "<p>L\u1ea7n \u0111\u1ea7u ti\u00ean trong l\u1ecbch s\u1eed \u0111i\u1ec7n \u1ea3nh c\u1ee7a Ng\u01b0\u1eddi Nh\u1ec7n, th\u00e2n ph\u1eadn ng\u01b0\u1eddi h\u00e0ng x\u00f3m th\u00e2n thi\u1ec7n b\u1ecb l\u1eadt m\u1edf, khi\u1ebfn tr\u00e1ch nhi\u1ec7m l\u00e0m m\u1ed9t Si\u00eau Anh H\u00f9ng xung \u0111\u1ed9t v\u1edbi cu\u1ed9c s\u1ed1ng b\u00ecnh th\u01b0\u1eddng v\u00e0 \u0111\u1eb7t ng\u01b0\u1eddi anh quan t\u00e2m nh\u1ea5t v\u00e0o t\u00ecnh th\u1ebf nguy hi\u1ec3m. Khi anh nh\u1edd \u0111\u1ebfn gi\u00fap \u0111\u1ee1 c\u1ee7a Doctor Strange \u0111\u1ec3 kh\u00f4i ph\u1ee5c l\u1ea1i b\u00ed m\u1eadt, ph\u00e9p thu\u1eadt \u0111\u00e3 g\u00e2y ra l\u1ed7 h\u1ed5ng th\u1eddi kh\u00f4ng, gi\u1ea3i ph\u00f3ng nh\u1eefng \u00e1c nh\u00e2n m\u1ea1nh m\u1ebd nh\u1ea5t t\u1eebng \u0111\u1ed1i \u0111\u1ea7u v\u1edbi Ng\u01b0\u1eddi Nh\u1ec7n t\u1eeb m\u1ecdi v\u0169 tr\u1ee5. B\u00e2y gi\u1edd, Peter s\u1ebd ph\u1ea3i v\u01b0\u1ee3t qua th\u1eed th\u00e1ch l\u1edbn nh\u1ea5t c\u1ee7a m\u00ecnh, n\u00f3 s\u1ebd thay \u0111\u1ed5i kh\u00f4ng ch\u1ec9 t\u01b0\u01a1ng lai c\u1ee7a ch\u00ednh anh m\u00e0 c\u00f2n l\u00e0 t\u01b0\u01a1ng lai c\u1ee7a c\u1ea3 \u0110a V\u0169 Tr\u1ee5.<\/p>",
+        "resolution": "1",
+        "name_eng": "Spider-Man: No Way Home",
+        "subtitle": "1",
+        "year_release": "2021",
+        "duration": "148 ph\u00fat",
+        "season": "0",
+        "trailer": "OB3g37GTALc",
+        "episodes": 1,
+        "id_category": 6,
+        "id_genre": 6,
+        "id_country": 36,
+        "image": "61bab2aa370d9186.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T14:22:22.000000Z",
+        "updated_at": "2022-08-31T07:22:22.000000Z",
+        "category": {
+          "id": 6,
+          "name": "Phim Hot",
+          "slug": "phim-hot",
+          "created_at": "2022-08-11T10:07:25.000000Z",
+          "updated_at": "2022-08-11T10:07:25.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 17,
+            "name": "H\u1ed3i h\u1ed9p - Gay c\u1ea5n",
+            "slug": "hoi-hop-gay-can",
+            "created_at": "2022-08-28T10:24:41.000000Z",
+            "updated_at": "2022-08-28T10:24:41.000000Z",
+            "pivot": {
+              "movie_id": 45,
+              "genre_id": 17
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 45,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 6,
+            "name": "H\u00e0nh \u0110\u1ed9ng",
+            "slug": "hanh-dong",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:44:15.000000Z",
+            "pivot": {
+              "movie_id": 45,
+              "genre_id": 6
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      },
+      {
+        "id": 44,
+        "name": "Doraemon: Nobita V\u00e0 Cu\u1ed9c Chi\u1ebfn V\u0169 Tr\u1ee5 T\u00ed Hon 2021",
+        "slug": "doraemon-nobita-va-cuoc-chien-vu-tru-ti-hon-2021",
+        "description": "<p>Nobita t\u00ecnh c\u1edd g\u1eb7p \u0111\u01b0\u1ee3c ng\u01b0\u1eddi ngo\u00e0i h\u00e0nh tinh t\u00ed hon Papi, v\u1ed1n l\u00e0 T\u1ed5ng th\u1ed1ng c\u1ee7a h\u00e0nh tinh Pirika, ch\u1ea1y tr\u1ed1n t\u1edbi Tr\u00e1i \u0110\u1ea5t \u0111\u1ec3 tho\u00e1t kh\u1ecfi nh\u1eefng k\u1ebb n\u1ed5i lo\u1ea1n n\u01a1i qu\u00ea nh\u00e0. Doraemon, Nobita v\u00e0 h\u1ed9i b\u1ea1n th\u00e2n d\u00f9ng b\u1ea3o b\u1ed1i \u0111\u00e8n pin thu nh\u1ecf bi\u1ebfn \u0111\u1ed5i theo k\u00edch c\u1ee1 gi\u1ed1ng Papi \u0111\u1ec3 ch\u01a1i c\u00f9ng c\u1eadu b\u00e9. Th\u1ebf nh\u01b0ng, m\u1ed9t t\u00e0u chi\u1ebfn kh\u00f4ng gian t\u1ea5n c\u00f4ng c\u1ea3 nh\u00f3m. C\u1ea3m th\u1ea5y c\u00f3 tr\u00e1ch nhi\u1ec7m v\u00ec li\u00ean l\u1ee5y m\u1ecdi ng\u01b0\u1eddi, Papi quy\u1ebft \u0111\u1ecbnh m\u1ed9t m\u00ecnh \u0111\u01b0\u01a1ng \u0111\u1ea7u v\u1edbi qu\u00e2n phi\u1ebfn lo\u1ea1n t\u00e0n \u00e1c. Doraemon v\u00e0 c\u00e1c b\u1ea1n l\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn h\u00e0nh tinh Pirika, s\u00e1t c\u00e1nh b\u00ean ng\u01b0\u1eddi b\u1ea1n c\u1ee7a m\u00ecnh.<\/p>",
+        "resolution": "3",
+        "name_eng": "Doraemon the Movie: Nobita\u2019s Little Star Wars 2021",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "108 ph\u00fat",
+        "season": "0",
+        "trailer": "twtjj-tuwaY",
+        "episodes": 1,
+        "id_category": 6,
+        "id_genre": 1,
+        "id_country": 42,
+        "image": "62f7291ea0b202125.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T14:04:36.000000Z",
+        "updated_at": "2022-08-31T07:04:36.000000Z",
+        "category": {
+          "id": 6,
+          "name": "Phim Hot",
+          "slug": "phim-hot",
+          "created_at": "2022-08-11T10:07:25.000000Z",
+          "updated_at": "2022-08-11T10:07:25.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 21,
+            "name": "H\u00e0i \u01b0\u1edbc",
+            "slug": "hai-uoc",
+            "created_at": "2022-08-28T10:26:21.000000Z",
+            "updated_at": "2022-08-28T10:26:21.000000Z",
+            "pivot": {
+              "movie_id": 44,
+              "genre_id": 21
+            }
+          },
+          {
+            "id": 19,
+            "name": "Ho\u1ea1t h\u00ecnh",
+            "slug": "hoat-hinh",
+            "created_at": "2022-08-28T10:25:23.000000Z",
+            "updated_at": "2022-08-28T10:25:23.000000Z",
+            "pivot": {
+              "movie_id": 44,
+              "genre_id": 19
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 44,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 13,
+            "name": "Phi\u00eau L\u01b0u",
+            "slug": "phieu-luu",
+            "created_at": "2022-08-16T09:45:51.000000Z",
+            "updated_at": "2022-08-16T09:45:51.000000Z",
+            "pivot": {
+              "movie_id": 44,
+              "genre_id": 13
+            }
+          }
+        ],
+        "country": {
+          "id": 42,
+          "name": "Nh\u1eadt B\u1ea3n",
+          "slug": "nhat-ban",
+          "created_at": "2022-08-16T15:07:27.000000Z",
+          "updated_at": "2022-08-16T15:07:27.000000Z"
+        }
+      },
+      {
+        "id": 43,
+        "name": "Constantine: Ng\u00f4i Nh\u00e0 B\u00ed \u1ea8n",
+        "slug": "constantine-ngoi-nha-bi-an",
+        "description": "<p>Constantine: Ng\u00f4i Nh\u00e0 B\u00ed \u1ea8n (Constantine: The House of Mystery) l\u00e0 m\u1ed9t b\u1ed9 phim ho\u1ea1t h\u00ecnh ng\u1eafn trong V\u0169 tr\u1ee5 phim ho\u1ea1t h\u00ecnh DC. Theo ch\u00e2n John Constantine sau c\u00e1c s\u1ef1 ki\u1ec7n c\u1ee7a Justice League Dark: Apokolips War.<\/p>",
+        "resolution": "3",
+        "name_eng": "Constantine: The House of Mystery",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "27 ph\u00fat",
+        "season": "0",
+        "trailer": "7W_6J9esLYY",
+        "episodes": 1,
+        "id_category": 8,
+        "id_genre": 6,
+        "id_country": 36,
+        "image": "626d40aeb6fd37323.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T14:00:14.000000Z",
+        "updated_at": "2022-08-31T07:00:14.000000Z",
+        "category": null,
+        "movie_genre": [
+          {
+            "id": 19,
+            "name": "Ho\u1ea1t h\u00ecnh",
+            "slug": "hoat-hinh",
+            "created_at": "2022-08-28T10:25:23.000000Z",
+            "updated_at": "2022-08-28T10:25:23.000000Z",
+            "pivot": {
+              "movie_id": 43,
+              "genre_id": 19
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 43,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 6,
+            "name": "H\u00e0nh \u0110\u1ed9ng",
+            "slug": "hanh-dong",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:44:15.000000Z",
+            "pivot": {
+              "movie_id": 43,
+              "genre_id": 6
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      },
+      {
+        "id": 42,
+        "name": "Si\u00eau Nhi\u00ean (Ph\u1ea7n 12)",
+        "slug": "sieu-nhien-phan-12",
+        "description": "<p><strong>Supernatural Season 12<\/strong> k\u1ec3 v\u1ec1 c\u00e2u chuy\u1ec7n c\u1ee7a hai anh em nh\u00e0 Winchester rong r\u1ee7i tr\u00ean kh\u1eafp n\u01b0\u1edbc M\u1ef9 \u0111\u1ec3 ti\u00eau di\u1ec7t qu\u1ef7 v\u00e0 nh\u1eefng h\u00ecnh th\u00e1i si\u00eau nhi\u00ean kh\u00e1c.<\/p>",
+        "resolution": "3",
+        "name_eng": "Supernatural (Season 12)",
+        "subtitle": "1",
+        "year_release": "2016",
+        "duration": "44 ph\u00fat\/1 t\u1eadp",
+        "season": "0",
+        "trailer": "hGnddlsjA9c",
+        "episodes": 23,
+        "id_category": 5,
+        "id_genre": 6,
+        "id_country": 36,
+        "image": "sieu-nhien-phan-12-supernatural-season-12-15778-250x3502321.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T13:40:54.000000Z",
+        "updated_at": "2022-08-31T06:40:54.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Phim M\u1edbi",
+          "slug": "phim-moi",
+          "created_at": "2022-08-11T10:04:43.000000Z",
+          "updated_at": "2022-08-11T10:04:43.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 22,
+            "name": "Kinh d\u1ecb",
+            "slug": "kinh-di",
+            "created_at": "2022-08-31T06:39:14.000000Z",
+            "updated_at": "2022-08-31T06:39:14.000000Z",
+            "pivot": {
+              "movie_id": 42,
+              "genre_id": 22
+            }
+          },
+          {
+            "id": 17,
+            "name": "H\u1ed3i h\u1ed9p - Gay c\u1ea5n",
+            "slug": "hoi-hop-gay-can",
+            "created_at": "2022-08-28T10:24:41.000000Z",
+            "updated_at": "2022-08-28T10:24:41.000000Z",
+            "pivot": {
+              "movie_id": 42,
+              "genre_id": 17
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 42,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 6,
+            "name": "H\u00e0nh \u0110\u1ed9ng",
+            "slug": "hanh-dong",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:44:15.000000Z",
+            "pivot": {
+              "movie_id": 42,
+              "genre_id": 6
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      },
+      {
+        "id": 41,
+        "name": "Phi C\u00f4ng Si\u00eau \u0110\u1eb3ng Maverick \u2013 Top Gun: Maverick",
+        "slug": "phi-cong-sieu-dang-maverick-\u2013-top-gun-maverick",
+        "description": "<p>Sau h\u01a1n ba m\u01b0\u01a1i n\u0103m ph\u1ee5c v\u1ee5 v\u1edbi t\u01b0 c\u00e1ch l\u00e0 m\u1ed9t trong nh\u1eefng phi c\u00f4ng h\u00e0ng \u0111\u1ea7u c\u1ee7a H\u1ea3i qu\u00e2n, Pete Mitchell l\u00e0 n\u01a1i anh thu\u1ed9c v\u1ec1, th\u00fac \u0111\u1ea9y phong c\u00e1ch nh\u01b0 m\u1ed9t phi c\u00f4ng th\u1eed nghi\u1ec7m can \u0111\u1ea3m v\u00e0 n\u00e9 tr\u00e1nh s\u1ef1 th\u0103ng ti\u1ebfn trong c\u1ea5p b\u1eadc s\u1ebd th\u00fac \u0111\u1ea9y anh ta.<\/p>",
+        "resolution": "1",
+        "name_eng": "Top Gun: Maverick",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "131 ph\u00fat",
+        "season": "0",
+        "trailer": "giXco2jaZ_4",
+        "episodes": 1,
+        "id_category": 6,
+        "id_genre": 6,
+        "id_country": 36,
+        "image": "629445e04a3ab5284.jpg",
+        "status": 1,
+        "created_at": "2022-08-31T13:33:58.000000Z",
+        "updated_at": "2022-08-31T06:33:59.000000Z",
+        "category": {
+          "id": 6,
+          "name": "Phim Hot",
+          "slug": "phim-hot",
+          "created_at": "2022-08-11T10:07:25.000000Z",
+          "updated_at": "2022-08-11T10:07:25.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 17,
+            "name": "H\u1ed3i h\u1ed9p - Gay c\u1ea5n",
+            "slug": "hoi-hop-gay-can",
+            "created_at": "2022-08-28T10:24:41.000000Z",
+            "updated_at": "2022-08-28T10:24:41.000000Z",
+            "pivot": {
+              "movie_id": 41,
+              "genre_id": 17
+            }
+          },
+          {
+            "id": 6,
+            "name": "H\u00e0nh \u0110\u1ed9ng",
+            "slug": "hanh-dong",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:44:15.000000Z",
+            "pivot": {
+              "movie_id": 41,
+              "genre_id": 6
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      },
+      {
+        "id": 40,
+        "name": "Ng\u01b0\u1eddi C\u00e1t (Ph\u1ea7n 1) \u2013 The Sandman (Season 1)",
+        "slug": "nguoi-cat-phan-1-\u2013-the-sandman-season-1",
+        "description": "<p>Sau nhi\u1ec1u n\u0103m b\u1ecb giam c\u1ea7m, Morpheus \u2013 Ch\u00faa t\u1ec3 C\u00f5i M\u1ed9ng \u2013 b\u1eaft \u0111\u1ea7u cu\u1ed9c h\u00e0nh tr\u00ecnh xuy\u00ean qua c\u00e1c th\u1ebf gi\u1edbi \u0111\u1ec3 t\u00ecm l\u1ea1i nh\u1eefng th\u1ee9 \u0111\u00e3 b\u1ecb c\u01b0\u1edbp \u0111o\u1ea1t v\u00e0 kh\u00f4i ph\u1ee5c s\u1ee9c m\u1ea1nh.<\/p>",
+        "resolution": "1",
+        "name_eng": "The Sandman (Season 1)",
+        "subtitle": "1",
+        "year_release": "2022",
+        "duration": "45 ph\u00fat\/1 t\u1eadp",
+        "season": "1",
+        "trailer": "83ClbRPRDXU",
+        "episodes": 11,
+        "id_category": 6,
+        "id_genre": 1,
+        "id_country": 36,
+        "image": "the_sandman7376.jpg",
+        "status": 1,
+        "created_at": "2022-08-28T17:55:01.000000Z",
+        "updated_at": "2022-08-28T10:56:04.000000Z",
+        "category": {
+          "id": 6,
+          "name": "Phim Hot",
+          "slug": "phim-hot",
+          "created_at": "2022-08-11T10:07:25.000000Z",
+          "updated_at": "2022-08-11T10:07:25.000000Z"
+        },
+        "movie_genre": [
+          {
+            "id": 17,
+            "name": "H\u1ed3i h\u1ed9p - Gay c\u1ea5n",
+            "slug": "hoi-hop-gay-can",
+            "created_at": "2022-08-28T10:24:41.000000Z",
+            "updated_at": "2022-08-28T10:24:41.000000Z",
+            "pivot": {
+              "movie_id": 40,
+              "genre_id": 17
+            }
+          },
+          {
+            "id": 14,
+            "name": "Vi\u1ec5n T\u01b0\u1edfng",
+            "slug": "vien-tuong",
+            "created_at": "2022-08-16T09:46:32.000000Z",
+            "updated_at": "2022-08-16T09:46:32.000000Z",
+            "pivot": {
+              "movie_id": 40,
+              "genre_id": 14
+            }
+          },
+          {
+            "id": 13,
+            "name": "Phi\u00eau L\u01b0u",
+            "slug": "phieu-luu",
+            "created_at": "2022-08-16T09:45:51.000000Z",
+            "updated_at": "2022-08-16T09:45:51.000000Z",
+            "pivot": {
+              "movie_id": 40,
+              "genre_id": 13
+            }
+          },
+          {
+            "id": 10,
+            "name": "Gi\u1eadt G\u00e2n",
+            "slug": "giat-gan",
+            "created_at": "2022-08-16T04:24:52.000000Z",
+            "updated_at": "2022-08-16T09:45:41.000000Z",
+            "pivot": {
+              "movie_id": 40,
+              "genre_id": 10
+            }
+          }
+        ],
+        "country": {
+          "id": 36,
+          "name": "M\u1ef9",
+          "slug": "my",
+          "created_at": "2022-08-16T14:58:08.000000Z",
+          "updated_at": "2022-08-16T15:06:26.000000Z"
+        }
+      }
+    ],
+    "first_page_url": "http:\/\/127.0.0.1:8000\/all?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http:\/\/127.0.0.1:8000\/all?page=1",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "http:\/\/127.0.0.1:8000\/all?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": null,
+    "path": "http:\/\/127.0.0.1:8000\/all",
+    "per_page": 10,
+    "prev_page_url": null,
+    "to": 9,
+    "total": 9
+  },
+  "code": 200
+}
